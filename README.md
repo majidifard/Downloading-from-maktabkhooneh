@@ -1,6 +1,6 @@
 # Downloading-from-maktabkhooneh
 
-We can get the video download link list from the maktabkhooneh courses and download them and then rename the video files in order
+We can get the video download link list from the maktabkhooneh courses and download them and then rename the video files in order.
 
 1 --> First you should get the url like the example below and then put it in the links.txt file.
 
@@ -14,4 +14,4 @@ We can get the video download link list from the maktabkhooneh courses and downl
 
 5 --> Then run the namingFile.py and it will rename them all and you can watch the course easily. 
 
-NOTE : you must clear all txt files before using it again
+NOTE : you must clear all txt files before using it again.
