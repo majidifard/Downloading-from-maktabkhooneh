@@ -14,4 +14,4 @@ We can get the video download link list from the maktabkhooneh courses and downl
 
 5 --> Then run the namingFile.py and it will rename them all and you can watch the course easily. 
 
-NOTE : you must clear all txt files before using it again.
+NOTE : you must clear all text files before using it again. Since I have some text in those text files to show you an example you must clear them once you wanted to use the code.
